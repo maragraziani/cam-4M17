@@ -1,0 +1,27 @@
+
+ans =
+
+  1×7 cell array
+
+    [20]    [50]    [0.3641]    [0.0694]    ["fastT"]    ["boltza"]    [5.0018e+03]
+
+
+ans =
+
+  1×7 cell array
+
+    [200]    [30]    [0.3081]    [0.0256]    ["fastT"]    ["boltza"]    [5.0028e+03]
+
+
+ans =
+
+  1×7 cell array
+
+    [150]    [0.8000]    [0.6684]    [0.0462]    ["scattered"]    ["adapt"]    [3600]
+
+
+ans =
+
+  1×7 cell array
+
+    [400]    [0.4000]    [0.3049]    [0.0228]    ["scattered"]    ["adapt"]    [1200]

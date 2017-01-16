@@ -1,0 +1,26 @@
+ans =
+
+  1×7 cell array
+
+    [50]    [500]    [0.3968]    [0.0853]    ["expT"]    ["boltzA"]    [5001]
+
+
+ans =
+
+  1×7 cell array
+
+    [500]    [30]    [0.3059]    [0.0258]    ["expT"]    ["boltzA"]    [5.0036e+03]
+
+
+ans =
+
+  1×7 cell array
+
+    [150]    [0.4000]    [0.4171]    [0.0935]    ["intermediate"]    ["adapt"]    [3600]
+
+
+ans =
+
+  1×7 cell array
+
+    [400]    [0.8000]    [0.2650]    [0.0151]    ["intermediate"]    ["adapt"]    [1200]
